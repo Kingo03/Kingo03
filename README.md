@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kingo03
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning different lang,and DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin
+- 💞️ I’m looking to collaborate on building new projects
+- 📫 How to reach me linkedin platform username Harshit Singh
 
 <!---
 Kingo03/Kingo03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
