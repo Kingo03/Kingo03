@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kingo03
-- 👀 I’m interested in coding and software development
+- 👋 Hi, I’m Harshit Singh
+- 👀 I’m interested in coding, software development, data Analyst and data Science
 - 🌱 I’m currently learning different lang,and DSA
 - 💞️ I’m looking to collaborate on building new projects
 - 📫 How to reach me linkedin platform username Harshit Singh
